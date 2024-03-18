@@ -1,0 +1,2 @@
+C:\Users\AEMaximinos\Documents\PSI\11\T15LinqAndLamda\Ex11InversionDePalabras\Ex11InversionDePalabras\bin\Debug\net8.0\Ex11InversionDePalabras.exe
+C:\Users\AEMaximinos\Documents\PSI\11\T15LinqAndLamda\Ex11InversionDePalabras\Ex11InversionDePalabras\bin\Debug\net8.0\Ex11InversionDePalabras.dll

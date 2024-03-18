@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex13MapearNumeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752B6A26-45E3-49A8-A9D5-0F5612FFBAF7}|Ex13MapearNumeros\\Ex13MapearNumeros.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t15linqandlamda\\ex13mapearnumeros\\ex13mapearnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752B6A26-45E3-49A8-A9D5-0F5612FFBAF7}|Ex13MapearNumeros\\Ex13MapearNumeros.csproj|solutionrelative:ex13mapearnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex13MapearNumeros\\Ex13MapearNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "Ex13MapearNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex13MapearNumeros\\Ex13MapearNumeros\\Program.cs",
+              "RelativeToolTip": "Ex13MapearNumeros\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:36:15.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

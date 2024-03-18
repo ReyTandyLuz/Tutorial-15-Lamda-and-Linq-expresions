@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex15RemoverNumerosNegativos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8DF81C-0AE4-4D97-9134-D3A90E6F6BDB}|Ex15RemoverNumerosNegativos\\Ex15RemoverNumerosNegativos.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t15linqandlamda\\ex15removernumerosnegativos\\ex15removernumerosnegativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8DF81C-0AE4-4D97-9134-D3A90E6F6BDB}|Ex15RemoverNumerosNegativos\\Ex15RemoverNumerosNegativos.csproj|solutionrelative:ex15removernumerosnegativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex15RemoverNumerosNegativos\\Ex15RemoverNumerosNegativos\\Program.cs",
+              "RelativeDocumentMoniker": "Ex15RemoverNumerosNegativos\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex15RemoverNumerosNegativos\\Ex15RemoverNumerosNegativos\\Program.cs",
+              "RelativeToolTip": "Ex15RemoverNumerosNegativos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:08:15.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

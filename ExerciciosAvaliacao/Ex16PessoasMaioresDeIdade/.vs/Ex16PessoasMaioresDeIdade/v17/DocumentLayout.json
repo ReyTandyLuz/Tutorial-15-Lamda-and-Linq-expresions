@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex16PessoasMaioresDeIdade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB7562-1718-4728-B874-BD3CE6F3E120}|Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t15linqandlamda\\ex16pessoasmaioresdeidade\\ex16pessoasmaioresdeidade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB7562-1718-4728-B874-BD3CE6F3E120}|Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade.csproj|solutionrelative:ex16pessoasmaioresdeidade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB7562-1718-4728-B874-BD3CE6F3E120}|Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t15linqandlamda\\ex16pessoasmaioresdeidade\\ex16pessoasmaioresdeidade\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB7562-1718-4728-B874-BD3CE6F3E120}|Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade.csproj|solutionrelative:ex16pessoasmaioresdeidade\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Ex16PessoasMaioresDeIdade\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "Ex16PessoasMaioresDeIdade\\Entities\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:23:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade\\Program.cs",
+              "RelativeDocumentMoniker": "Ex16PessoasMaioresDeIdade\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T15LinqAndLamda\\Ex16PessoasMaioresDeIdade\\Ex16PessoasMaioresDeIdade\\Program.cs",
+              "RelativeToolTip": "Ex16PessoasMaioresDeIdade\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:23:05.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
